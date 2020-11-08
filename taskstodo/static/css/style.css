@@ -1,0 +1,56 @@
+#chat{
+    padding:50px 0;
+}
+.msg{
+    display: flex;
+    padding: 10px;
+}
+.botmsg{
+    margin-right: 30%;
+}
+.usermsg{
+    margin-left: 30%;
+    justify-content: flex-end;
+}
+.content{
+    padding:10px 20px;
+    border-radius: 50px;
+    margin : 0 10px;
+}
+.botmsg .content{
+    background-color: rgb(24, 153, 78);
+    border-top-left-radius: 0px;
+}
+.usermsg .content{
+    background-color:rgba(38, 124, 209, 0.733);
+    border-top-right-radius: 0px;
+}
+.botmsg::before{
+    content:'';
+    width:64px;
+    height:64px;
+    border-radius: 32px;
+    background-image: url(https://i.pinimg.com/originals/f0/48/9c/f0489ceb101a4bb4f8fd6f6f2c9e2762.jpg);
+    background-size: cover;
+}
+.usermsg::after{
+    content:'';
+    width:64px;
+    height:64px;
+    border-radius: 32px;
+    background-image: url(https://image.shutterstock.com/image-vector/user-icon-human-person-symbol-260nw-1051033475.jpg);
+    background-size: cover;
+}
+.label{
+    font-weight: 500;
+    text-transform: capitalize;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.form{
+    min-width: 150px;
+    display: block;
+}
+.pad{
+    margin-right: 10px;
+}
