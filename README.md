@@ -24,6 +24,7 @@
 
 
 ## Youtube Link :
+[![ML_week3](https://img.youtube.com/vi/NEi5pn8ssqY/0.jpg)](https://www.youtube.com/watch?v=NEi5pn8ssqY)
 
 
 
