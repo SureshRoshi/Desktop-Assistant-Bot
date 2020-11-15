@@ -21,7 +21,8 @@
 - With the help of intents trained our bot can able to understand natural language and can proceed further to the commands that are given.
 
 # Chat with our Deskot_Assistant_Bot :
-https://desktop-assistant-bot.herokuapp.com/
+[Click here to chat](https://desktop-assistant-bot.herokuapp.com/)
+
 
 
 # Youtube Link :
