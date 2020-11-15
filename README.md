@@ -2,13 +2,13 @@
 
 # BROWN SAGAN ML2021
 
-### CONTRIBUTORS:
+# CONTRIBUTORS:
 - 18PA1A05F1 - V.SRUTHI
 - 18PA1A05E7 - KALESHA VALI
 - 19PA1A0218 - D.SURESH ROSHI
 
 
-## Desktop Assistant ChatBot
+# Desktop Assistant ChatBot
 
 - A chatbot is a software application used to conduct an on-line chat conversation via text or text-to-speech, in lieu of providing direct contact with a live human agent.
 - Organizations are actively and significantly using chatbots for automating their internal business processes. We can’t deny the fact that these AI applications are not only helping organizations but are also impacting our personal lives too.
@@ -20,7 +20,7 @@
 - Our Desktop Assistant Bot helps you in some aspects like checking time , sending G-mail to others etc.,
 - With the help of intents trained our bot can able to understand natural language and can proceed further to the commands that are given.
 
-#### Block diagram of the functions and how they are connected with the description of inputs and outputs :
+### Block diagram of the functions and how they are connected with the description of inputs and outputs :
 
 
 
