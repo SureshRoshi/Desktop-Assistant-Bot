@@ -27,3 +27,7 @@ https://desktop-assistant-bot.herokuapp.com/
 
 
 
+## Install
+
+- Install requirements.txt `pip install -r requirements.txt`
+ 
