@@ -1,3 +1,7 @@
+"""
+As long as the developers of this app provide a file listing the necessary packages, we can simply $ pip install -r requirements.txt and voila! All of the program’s “dependencies” will be downloaded, installed, and ready to go in one fell swoop.
+
+
 beautifulsoup4==4.9.3
 certifi==2020.11.8
 chardet==3.0.4
